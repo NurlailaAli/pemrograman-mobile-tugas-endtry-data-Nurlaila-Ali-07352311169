@@ -17,8 +17,10 @@ Program ini dibuat untuk menyimpan dan menampilkan data mahasiswa beserta dosen 
 
 Cara Menjalankan Program
 
-1. Pastikan sudah menginstal Dart SDK di komputer.
+1. Clone repository dari GitHub:
+   ```bash
+   git clone https://github.com/NurlailaAli/pemrograman-mobile-tugas-endtry-data-Nurlaila-Ali-07352311169](https://github.com/NurlailaAli/pemrograman-mobile-tugas-endtry-data-Nurlaila-Ali-07352311169.git
 
-2. masuk ke folder project:cd "Kuliah/Tugas IV Mobile endtry data mhswa dan dosen_Nurlaila Ali_169/src"
+2. masuk ke folder project: cd "/c/Users/Acer/Documents/KULIAH/Tugas IV Mobile endtry data mhswa dan dosen_Nurlaila Ali_169/src"
 
 3.  dart tugas.dart
